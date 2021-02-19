@@ -1,7 +1,7 @@
 route_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
 1,1,Calea Dumbravii - Hornbah / Viile Sibiului,,3,0000D3,FFFFFF
 2,2,Tabacarie 1 - Piata Cibin 3,,3,0000D3,FFFFFF
-5,5,Valea Aurie - Gara,,3,750000,FFFFFF
+5,5,Valea Aurie 1 - Gara,,3,750000,FFFFFF
 10,10,Turnisor  - Sc Compa -  Gusterita,,3,00CF67,000000
 11,11,Cedonia - Sc Continental,,3,7F00AA,FFFFFF
 12,12,Piata Rahova - Sembraz,,3,7FAAFF,000000
